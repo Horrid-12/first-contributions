@@ -1464,5 +1464,6 @@
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
 - [Peeranut Sueroj](https://github.com/king-peanut)
+- [Just Horrid](https://github.com/Horrid-12)
 
 <!-- prettier-ignore-end -->
